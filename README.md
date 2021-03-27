@@ -14,7 +14,9 @@ Given the role that music plays in our life and how Spotify has positioned itsel
     ¿Las regiones reflejaran un mejor de vida en la felicidad que consumen a través de canciones?
     ¿Nos seguirá gustando bailar incluso en épocas donde asistir a un antro es considerado terror biólogico? Y si es así, ¿A quiénes nos gusta bailar más?
 
- And with this as a starting point, we (you are now part of the work) are going to create a dataset from scratch (well, getting a lot of help from Spotify's API), of the 50 top hits per country, and perform some initial geospatial analysis with it. This is an extremely early work, but it's good enough for the curious eye to learn a few new concepts in a real environment. Enjoy it.
+ And with this as a starting point, we (you are now part of the work) are going to create a dataset from scratch (well, getting a lot of help from Spotify's API), of the 50 top hits per country, and perform some initial geospatial analysis with it. This is an extremely early work, but it's good enough for the curious eye to learn a few new concepts in a real environment. Enjoy it.  
+ 
+ Access the notebook through the file or directly in [colab](https://colab.research.google.com/drive/1YMSnIwXacq0136SFCc_3Wt1jWYubMSqu#scrollTo=XWge66jIwqoI)
 ## Links  
 - [Spotify for Developers](https://developer.spotify.com/documentation/web-api/)
 - [Spotipy](https://spotipy.readthedocs.io/en/2.17.1/)
