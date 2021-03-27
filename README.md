@@ -1,6 +1,7 @@
 # Geospatial Spotify  
 (In development)  
-
+<img src='valenciapromedio.png'>
+In spanish: Average valence per hit song (where valence is Spotify's way to measure happiness)
 ## Index
 - [Summary](#introduccion)
 - [Links](#links)
