@@ -7,8 +7,7 @@ In spanish: Average valence per hit song (where valence is Spotify's way to meas
 ## Index
 - [Summary](#introduccion)
 - [Links](#links)
-- [Extra: La música y el mundo, o **un mapa vale más que mil palabras**](#geografia)
-  * [Geopandas](#geopandas)
+
 <a name="introduccion"></a>
 ## Summary  
 Everybody wants to analyze Spotify. And everybody should do it.  
